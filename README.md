@@ -15,4 +15,4 @@ Added new element
 
 Edited from jclayton's classical elements repository
 
-[Link to original repository](github.com/jclayton/classical-elements)
+[Link to original repository](https://github.com/jclayton/classical-elements)
