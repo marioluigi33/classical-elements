@@ -6,3 +6,13 @@ An SVG icon system of classical elements
 * Fire
 * Water
 * Æther
+
+##Update
+
+Added new element
+
+* Harmony
+
+Edited from jclayton's classical elements repository
+
+[Link to original repository](github.com/jclayton/classical-elements)
